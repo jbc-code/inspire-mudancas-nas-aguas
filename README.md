@@ -1,6 +1,6 @@
 # 🌊 Inspire Mudanças nas Águas
 
-Site de conscientização sobre a **poluição marinha**, desenvolvido como projeto extensionista. A proposta é mostrar, de forma acessível, como a poluição dos oceanos afeta a vida marinha, o clima do planeta, o nosso próprio dia a dia e o que cada pessoa pode fazer para ajudar.
+Site de conscientização sobre a **poluição marinha**, desenvolvido como projeto extensionista. A proposta é mostrar, de forma acessível, como a poluição dos oceanos afeta a vida marinha, o clima do planeta e o nosso próprio dia a dia.
 
 ## 🎯 Sobre o projeto
 
