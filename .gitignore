@@ -1,0 +1,11 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+__MACOSX/
+
+# Editores
+.vscode/
+.idea/
+
+# Dependências (caso adicione build tools no futuro)
+node_modules/
