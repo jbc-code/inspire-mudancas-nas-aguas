@@ -55,7 +55,7 @@ Como é um projeto **100% front-end** (sem backend ou build tools), basta:
    # Python 3
    python3 -m http.server 8000
    ```
-   e acessar `http://localhost:8000` no navegador.
+   e acessar [http://localhost:8000](https://mudancasnasaguas.netlify.app/) no navegador.
 
 ## 👩‍💻 Equipe
 
